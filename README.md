@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing consumer demographics, brand percept
 
 ## 🌐 Interactive Dashboard
 
-### [View the Live Power BI Dashboard](https://mraza9910.github.io/under-armour-consumer-analytics-dashboard/)
+### [View the Live Power BI Dashboard](https://mraza9910.github.io/Under-Armour-Consumer-Analytics-Dashboard/)
 
 Explore the full interactive dashboard, including filters, cross-filtering, and all six analytical pages.
 
